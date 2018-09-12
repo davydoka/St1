@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+=======
+sdfghjkl;lkjhgfds
+gffhhjklljkhjhgf
+>>>>>>> 30df11612cb06c8cb60d9ac0bdd1dbb1ebbdcbe3
 ghjklkjhgfdd
 ghjkjhgfd
